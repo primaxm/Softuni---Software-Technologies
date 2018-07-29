@@ -32,7 +32,7 @@ class SecurityController extends Controller
      */
     public function logoutAction()
     {
-        throw new \Exception('This should never be reached!');
+       // throw new \Exception('This should never be reached!');
     }
 
 }

@@ -4,6 +4,7 @@ namespace SoftUniBlogBundle\Controller;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Security;
+use SoftUniBlogBundle\Entity\Article;
 use SoftUniBlogBundle\Entity\User;
 use SoftUniBlogBundle\Form\UserType;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
@@ -50,5 +51,24 @@ class UserController extends Controller
     {
         $user = $this->getUser();
         return $this->render("user/profile.html.twig", ['user'=>$user]);
+    }
+
+    /**
+     * @Security("is_granted('IS_AUTHENTICATED_FULLY')")
+     * @Route("/user/myarticles", name="user_articles")
+     *
+     * @return \Symfony\Component\HttpFoundation\Response
+     */
+    public function showMyArticles() {
+        $repository = $this->getDoctrine()->getRepository(Article::class);
+        $authorId = $this->getUser()->getId();
+        $articles = $repository->findBy(
+            ['authorId' => $authorId],
+            ['dateAdded' => 'DESC']
+        );
+
+        return $this->render("user/articles.html.twig", [
+            'articles' => $articles,
+            ]);
     }
 }
