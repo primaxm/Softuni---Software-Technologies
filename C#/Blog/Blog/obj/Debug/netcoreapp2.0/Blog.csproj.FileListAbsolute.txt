@@ -1,0 +1,8 @@
+D:\SoftUni\Software Technologies\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+D:\SoftUni\Software Technologies\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+D:\SoftUni\Software Technologies\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+D:\SoftUni\Software Technologies\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csprojResolveAssemblyReference.cache
+D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs

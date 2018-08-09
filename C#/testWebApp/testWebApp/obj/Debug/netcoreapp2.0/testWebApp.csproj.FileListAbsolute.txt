@@ -1,0 +1,11 @@
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\bin\Debug\netcoreapp2.0\testWebApp.deps.json
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\bin\Debug\netcoreapp2.0\testWebApp.runtimeconfig.json
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\bin\Debug\netcoreapp2.0\testWebApp.runtimeconfig.dev.json
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\bin\Debug\netcoreapp2.0\testWebApp.dll
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\bin\Debug\netcoreapp2.0\testWebApp.pdb
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\obj\Debug\netcoreapp2.0\testWebApp.csprojResolveAssemblyReference.cache
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\obj\Debug\netcoreapp2.0\testWebApp.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\obj\Debug\netcoreapp2.0\testWebApp.AssemblyInfoInputs.cache
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\obj\Debug\netcoreapp2.0\testWebApp.AssemblyInfo.cs
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\obj\Debug\netcoreapp2.0\testWebApp.dll
+D:\SoftUni\Software Technologies\C#\testWebApp\testWebApp\obj\Debug\netcoreapp2.0\testWebApp.pdb

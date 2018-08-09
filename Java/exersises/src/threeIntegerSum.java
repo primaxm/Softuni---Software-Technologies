@@ -3,7 +3,7 @@ import java.util.Scanner;
 import static java.lang.Integer.*;
 
 
-public class threeIntegerSum {
+public class ThreeIntegerSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
