@@ -6,3 +6,7 @@ D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.cspro
 D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
 D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
 D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+D:\SoftUni\Software Technologies\C#\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+D:\SoftUni\Software Technologies\C#\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.pdb
